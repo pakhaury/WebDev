@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    color: #353129;
+  }
+  fieldset {
+    border: 1px solid #353129;
+    color: #353129;
+  }
+  #map{
+    margin: 0;
+    padding: 0;
+  }
+  #footerPane{
+    border: none;
+    height: 300px;
+  }
